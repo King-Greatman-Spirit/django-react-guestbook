@@ -1,0 +1,7 @@
+# misc
+.DS_Store
+
+#virtual environment
+/venv
+
+.commands.txt
